@@ -1,0 +1,148 @@
+{
+    "products": [
+        {
+            "ProId": "O001",
+            "Category": 1,
+            "ProName": "Ống hút phi 6",
+            "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "Badge": "Ống hút",
+            "Description": "Mô tả ống hút 1",
+            "ProPrice": "22.500đ/50",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "O002",
+            "Category": 1,
+            "ProName": "Ống hút phi 10",
+            "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "Badge": "Ống hút",
+            "Description": "Mô tả ống hút 2",
+            "ProPrice": "40.000đ/100",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "P005",
+            "Category": 2,
+           "ProName": "Đĩa ba ngăn",
+            "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
+            "Badge": "Đĩa",
+            "Description": "Mô tả đĩa ba ngăn",
+            "ProPrice": "130.000đ/50",
+            "ProQuan": "10"
+        },
+        {
+          "ProId": "P003",
+            "Category": 2,
+            "ProName": "Đĩa tròn",
+            "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
+            "Badge": "Đĩa",
+            "Description": "Mô tả đĩa tròn",
+            "ProPrice": "110.000đ/50",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "W009",
+            "Category": 3,
+            "ProName": "Cốc 250ml + nắp",
+            "ProImg": "iVerdant/Cups/atuantnqx0kfqiaxmm8g",
+            "Badge": "Cốc",
+            "Description": "Mô tả Ly 1",
+            "ProPrice": "150.000đ/50",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "W011",
+            "Category": 3,
+            "ProName": "Cốc 350ml + nắp",
+            "ProImg": "iVerdant/Cups/atuantnqx0kfqiaxmm8g",
+            "Badge": "Cốc",
+            "Description": "Mô tả Ly 2",
+            "ProPrice": "170.000đ/50",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "B001",
+            "Category": 4,
+            "ProName": "Hộp chữ nhật 320ml",
+            "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
+            "Badge": "Hộp",
+            "Description": "Mô tả Khay 1",
+            "ProPrice": "125.000đ/50",
+            "ProQuan": "10"
+        },
+        {
+            "ProId": "B004",
+            "Category": 4,
+            "ProName": "Khay chữ nhật 600ml",
+            "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
+            "Badge": "Khay",
+            "Description": "Mô tả Khay 2",
+            "ProPrice": "130.000đ/50",
+            "ProQuan": "10"
+        }
+    ],
+    "features": [
+        {
+            "Title": "Cốc phân huỷ sinh học",
+            "ProImg": "iVerdant/Cups/yfghrjk3whh7km0yj5xq",
+            "Border": "border-secondary",
+            "Background": "bg-secondary",
+            "Foreground": "bg-primary",
+            "Text": "text-white"
+        },
+        {
+            "Title": "Khay 4 ngăn",
+            "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
+            "Border": "border-secondary",
+            "Background": "bg-dark",
+            "Foreground": "bg-light",
+            "Text": "text-primary"
+        },
+        {
+            "Title": "Ống hút bả mía",
+            "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "Border": "border-primary",
+            "Background": "bg-primary",
+            "Foreground": "bg-secondary",
+            "Text": "text-white"
+        }
+    ],
+    "bestSelling": [
+        {
+            "ProId": "O001",
+            "ProName": "Ống hút phi 6",
+            "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "ProPrice": "22.500đ/50"
+        },
+        {
+            "ProId": "O002",
+            "ProName": "Ống hút phi 10",
+            "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "ProPrice": "30.000đ/50"
+        },
+        {
+            "ProId": "P005",
+            "ProName": "Đĩa ba ngăn",
+            "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
+            "ProPrice": "130.000đ/50"
+        },
+        {
+            "ProId": "P003",
+            "ProName": "Đĩa tròn",
+            "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
+            "ProPrice": "110.000đ/50"
+        },
+        {
+            "ProId": "B025",
+            "ProName": "Khay bánh kem",
+            "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
+            "ProPrice": "130.000đ/50"
+        },
+        {
+            "ProId": "B006",
+            "ProName": "Khay oval 500ml + nắp",
+            "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
+            "ProPrice": "160.000đ/50"
+        }
+    ]
+}
