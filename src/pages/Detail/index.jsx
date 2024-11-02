@@ -98,7 +98,7 @@ export default function Detail() {
                                         dangerouslySetInnerHTML={{ __html: pro.Description }}
                                     />
 
-                                    <Link to="#" className="btn border border-secondary rounded-pill px-4 py-2 mb-4 text-primary"><i
+                                    <Link to={pro.Link} className="btn border border-secondary rounded-pill px-4 py-2 mb-4 text-primary"><i
                                         className="fa fa-shopping-bag me-2 text-primary"></i> Mua ngay</Link>
                                 </div>
                                 <div className="col-lg-12">

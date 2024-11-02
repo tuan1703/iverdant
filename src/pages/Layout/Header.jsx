@@ -71,7 +71,6 @@ export default function Header() {
                                             <Link to="/Commit" className="dropdown-item">Lời cam kết</Link>
                                         </div>
                                     </div>
-                                    <Link to="contact.html" className="nav-item nav-link">Liên hệ</Link>
                                 </div>
                             </div>
                             <div className="d-flex m-3 me-0">
