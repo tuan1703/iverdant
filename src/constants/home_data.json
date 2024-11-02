@@ -6,9 +6,9 @@
             "ProName": "Ống hút phi 6",
             "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
             "Badge": "Ống hút",
-            "Description": "Mô tả ống hút 1",
+            "Link": "https://shopee.vn/iVerdant-(O001-O002)-%E1%BB%90ng-h%C3%BAt-b%C3%A3-m%C3%ADa-B%E1%BB%99-50-%E1%BB%91ng-i.234564430.25386631199?sp_atk=473ab9f2-07b1-46ca-9520-25ddf214a00e",
             "ProPrice": "22.500đ/50",
-            "ProQuan": "10"
+            "ProQuan": "1000"
         },
         {
             "ProId": "O002",
@@ -16,29 +16,29 @@
             "ProName": "Ống hút phi 10",
             "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
             "Badge": "Ống hút",
-            "Description": "Mô tả ống hút 2",
-            "ProPrice": "40.000đ/100",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-(O001-O002)-%E1%BB%90ng-h%C3%BAt-b%C3%A3-m%C3%ADa-B%E1%BB%99-50-%E1%BB%91ng-i.234564430.25386631199?sp_atk=473ab9f2-07b1-46ca-9520-25ddf214a00e",
+            "ProPrice": "30.000đ/50",
+            "ProQuan": "1000"
         },
         {
             "ProId": "P005",
             "Category": 2,
-           "ProName": "Đĩa ba ngăn",
+            "ProName": "Đĩa 3 ngăn đựng thức ăn",
             "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
             "Badge": "Đĩa",
-            "Description": "Mô tả đĩa ba ngăn",
-            "ProPrice": "130.000đ/50",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-P005-%C4%90%C4%A9a-3-ng%C4%83n-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-Combo-10-c%C3%A1i-i.234564430.26762825397?sp_atk=6fc0e1f5-35a4-436e-b609-c8d1669e5f9f",
+            "ProPrice": "26.000đ/10",
+            "ProQuan": "1000"
         },
         {
           "ProId": "P003",
             "Category": 2,
-            "ProName": "Đĩa tròn",
+            "ProName": "Đĩa tròn đựng thức ăn",
             "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
             "Badge": "Đĩa",
-            "Description": "Mô tả đĩa tròn",
-            "ProPrice": "110.000đ/50",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-P003-%C4%90%C4%A9a-tr%C3%B2n-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-Combo-10-c%C3%A1i-i.234564430.28162824994?sp_atk=1c8922a0-4ae3-4fed-b9f1-46d165aa3672",
+            "ProPrice": "22.000đ/10",
+            "ProQuan": "1000"
         },
         {
             "ProId": "W009",
@@ -46,9 +46,9 @@
             "ProName": "Cốc 250ml + nắp",
             "ProImg": "iVerdant/Cups/atuantnqx0kfqiaxmm8g",
             "Badge": "Cốc",
-            "Description": "Mô tả Ly 1",
-            "ProPrice": "150.000đ/50",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-(W009-W011)-C%E1%BB%91c-n%C6%B0%E1%BB%9Bc-(k%C3%A8m-n%E1%BA%AFp)-i.234564430.25836613051?sp_atk=b2e975b7-a70a-4b95-821a-a84d8fd48769",
+            "ProPrice": "3.000đ/Cái",
+            "ProQuan": "1000"
         },
         {
             "ProId": "W011",
@@ -56,8 +56,8 @@
             "ProName": "Cốc 350ml + nắp",
             "ProImg": "iVerdant/Cups/atuantnqx0kfqiaxmm8g",
             "Badge": "Cốc",
-            "Description": "Mô tả Ly 2",
-            "ProPrice": "170.000đ/50",
+            "Link": "https://shopee.vn/iVerdant-(W009-W011)-C%E1%BB%91c-n%C6%B0%E1%BB%9Bc-(k%C3%A8m-n%E1%BA%AFp)-i.234564430.25836613051?sp_atk=b2e975b7-a70a-4b95-821a-a84d8fd48769",
+            "ProPrice": "3.400đ/Cái",
             "ProQuan": "10"
         },
         {
@@ -66,9 +66,9 @@
             "ProName": "Hộp chữ nhật 320ml",
             "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
             "Badge": "Hộp",
-            "Description": "Mô tả Khay 1",
-            "ProPrice": "125.000đ/50",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-(B001-B004)-H%E1%BB%99p-ch%E1%BB%AF-nh%E1%BA%ADt-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-i.234564430.27962784753?sp_atk=63738a29-9118-49e1-9eda-4bb9707f65fc",
+            "ProPrice": "2.500đ/Cái",
+            "ProQuan": "1000"
         },
         {
             "ProId": "B004",
@@ -76,9 +76,9 @@
             "ProName": "Khay chữ nhật 600ml",
             "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
             "Badge": "Khay",
-            "Description": "Mô tả Khay 2",
-            "ProPrice": "130.000đ/50",
-            "ProQuan": "10"
+            "Link": "https://shopee.vn/iVerdant-(B001-B004)-H%E1%BB%99p-ch%E1%BB%AF-nh%E1%BA%ADt-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-i.234564430.27962784753?sp_atk=63738a29-9118-49e1-9eda-4bb9707f65fc",
+            "ProPrice": "2.600đ/Cái",
+            "ProQuan": "1000"
         }
     ],
     "features": [
@@ -112,37 +112,43 @@
             "ProId": "O001",
             "ProName": "Ống hút phi 6",
             "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "Link": "https://shopee.vn/iVerdant-(O001-O002)-%E1%BB%90ng-h%C3%BAt-b%C3%A3-m%C3%ADa-B%E1%BB%99-50-%E1%BB%91ng-i.234564430.25386631199?sp_atk=473ab9f2-07b1-46ca-9520-25ddf214a00e",
             "ProPrice": "22.500đ/50"
         },
         {
             "ProId": "O002",
             "ProName": "Ống hút phi 10",
             "ProImg": "iVerdant/Straws/lprwcmgzxzrqmm5w85vc",
+            "Link": "https://shopee.vn/iVerdant-(O001-O002)-%E1%BB%90ng-h%C3%BAt-b%C3%A3-m%C3%ADa-B%E1%BB%99-50-%E1%BB%91ng-i.234564430.25386631199?sp_atk=473ab9f2-07b1-46ca-9520-25ddf214a00e",
             "ProPrice": "30.000đ/50"
         },
         {
             "ProId": "P005",
             "ProName": "Đĩa ba ngăn",
             "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
-            "ProPrice": "130.000đ/50"
+            "Link": "https://shopee.vn/iVerdant-P003-%C4%90%C4%A9a-tr%C3%B2n-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-Combo-10-c%C3%A1i-i.234564430.28162824994?sp_atk=1c8922a0-4ae3-4fed-b9f1-46d165aa3672",
+            "ProPrice": "26.000đ/10"
         },
         {
             "ProId": "P003",
-            "ProName": "Đĩa tròn",
+            "ProName": "Đĩa tròn đựng thức ăn",
             "ProImg": "iVerdant/Bowls/mfoficyef9wpawvjwqk2",
-            "ProPrice": "110.000đ/50"
+            "Link": "https://shopee.vn/iVerdant-P003-%C4%90%C4%A9a-tr%C3%B2n-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-Combo-10-c%C3%A1i-i.234564430.28162824994?sp_atk=1c8922a0-4ae3-4fed-b9f1-46d165aa3672",
+            "ProPrice": "22.000đ/10"
         },
         {
             "ProId": "B025",
-            "ProName": "Khay bánh kem",
+            "ProName": "Hộp đựng bánh kem",
             "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
-            "ProPrice": "130.000đ/50"
+            "Link": "https://shopee.vn/iVerdant-B025-H%E1%BB%99p-%C4%91%E1%BB%B1ng-b%C3%A1nh-Bento-%C4%91%E1%BB%B1ng-b%C3%A1nh-kem-i.234564430.29962805539?sp_atk=9b727674-2ca2-46af-9a54-deb02bae7c15",
+            "ProPrice": "2.600đ/Cái"
         },
         {
             "ProId": "B006",
-            "ProName": "Khay oval 500ml + nắp",
+            "ProName": "Hộp oval đựng thức ăn (500ml)",
             "ProImg": "iVerdant/Trays/iow2iblgvjzlddcklkls",
-            "ProPrice": "160.000đ/50"
+            "Link": "https://shopee.vn/iVerdant-(B006-B005)-H%E1%BB%99p-oval-%C4%91%E1%BB%B1ng-th%E1%BB%A9c-%C4%83n-i.234564430.26162835180?sp_atk=7c450896-ccd5-4d00-8e1d-ab3db814eb52",
+            "ProPrice": "3.200đ/Cái"
         }
     ]
 }

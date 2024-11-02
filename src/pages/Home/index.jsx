@@ -201,7 +201,7 @@ export default function Home() {
                                                                 <Link to={`/detail/${item.ProId}`}
                                                                     className="btn border border-secondary rounded-pill px-3 text-primary">
                                                                     <i className="fa fa-search me-2 text-primary"></i> Chi tiết</Link>
-                                                                <Link to={`#`}
+                                                                <Link to={item.Link}
                                                                     className="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                         className="fa fa-shopping-bag me-2 text-primary"></i> Mua ngay</Link>
                                                             </div>
@@ -293,7 +293,7 @@ export default function Home() {
                                         <div className="col-6">
                                             <Link to={`/detail/${item.ProId}`} className="h5">{item.ProName}</Link>
                                             <h4 className="mb-3">{item.ProPrice}</h4>
-                                            <Link to={`/detail/${item.ProId}`} className="btn border border-secondary rounded-pill px-3 text-primary"><i
+                                            <Link to={item.Link} className="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                 className="fa fa-shopping-bag me-2 text-primary"></i> Mua ngay</Link>
                                         </div>
                                     </div>

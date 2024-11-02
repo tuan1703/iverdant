@@ -27,7 +27,7 @@ const Suggest = ({ res, owlCarouselOptions, text }) => {
                                             <Link to={`/detail/${item.ProId}`}
                                                 className="btn border border-secondary rounded-pill px-3 text-primary">
                                                 <i className="fa fa-search me-2 text-primary"></i> Chi tiết</Link>
-                                            <Link to={`#`}
+                                            <Link to={item.Link}
                                                 className="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                     className="fa fa-shopping-bag me-2 text-primary"></i> Mua ngay</Link>
                                         </div>
